@@ -76,7 +76,7 @@ Queue는 다음 함수를 새로 제공해야 한다.
 ## 과제 제출 예시
 
 ```
-https://github.com/cstria0106/datastructure
+https://github.com/cstria0106/data-structure
 d62f003
 ```
 
@@ -86,8 +86,8 @@ d62f003
 Makefile을 수정하지 말 것.
 
 ```sh
-git clone [url] datastructure
-cd datastructure
+git clone [url] data-structure
+cd data-structure
 make    # mingw32-make
 ./main  # .\main.exe
 ```
